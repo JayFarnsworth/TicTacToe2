@@ -4,7 +4,8 @@
   "description": "This drill involves making a tic-tac-toe game. The game logic is already written- you just need to do the DOM manipulation to make the game display correctly.",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "author": "",
   "license": "ISC"
